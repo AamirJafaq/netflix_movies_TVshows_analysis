@@ -24,7 +24,7 @@ The dataset contains metadata related to Netflix content, including:
 
 
 ## 🎯 Business Objectives
-The objectives of this project are answer business-driven analytical questions using SQL. The analysis addresses questions such as: \
+The objectives of this project are answer business-driven analytical questions using SQL. The analysis addresses questions such as:
 1. What is the total number of Movies and TV Shows on Netflix?
 2. Which movies have the longest duration?
 3. What content has been added in the last five years?
@@ -33,10 +33,10 @@ The objectives of this project are answer business-driven analytical questions u
 6. Which countries contribute the most content?
 The complete list of business and analytical questions addressed in this project is provided in the attached **PDF** file.
 ## 🔍 Analysis Approach
-The analysis follows **two-stage**:\
+The analysis follows **two-stage**:
 1. **Data Cleaning and Preprocessing (Python)**
 - Loaded the raw dataset into Python
-- Handled missing and inconsistent values \
+- Handled missing and inconsistent values 
 2. **SQL-Based Analysis**
 - Imported the cleaned dataset into a SQL database
 - Created structured tables
