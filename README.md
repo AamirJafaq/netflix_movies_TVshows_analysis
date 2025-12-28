@@ -25,8 +25,7 @@ The dataset contains metadata related to Netflix content, including:
 ---
 
 ## 🎯 Business Objectives
-The objectives of this project are:\
-Answer business-driven analytical questions using SQL. The analysis addresses questions such as:
+The objectives of this project are answer business-driven analytical questions using SQL. The analysis addresses questions such as:
 1. What is the total number of Movies and TV Shows on Netflix?
 2. Which movies have the longest duration?
 3. What content has been added in the last five years?
@@ -35,12 +34,11 @@ Answer business-driven analytical questions using SQL. The analysis addresses qu
 6. Which countries contribute the most content?
 The complete list of business and analytical questions addressed in this project is provided in the attached **PDF** file.
 ## 🔍 Analysis Approach
-The analysis follows a **two-stage pipeline**:\
-** 1. Data Cleaning and Preprocessing (Python)**
+The analysis follows **two-stage**:
+**1.** **Data Cleaning and Preprocessing (Python)**
 - Loaded the raw dataset into Python
 - Handled missing and inconsistent values
-
-** 2. SQL-Based Analysis**
+**2.** **SQL-Based Analysis**
 - Imported the cleaned dataset into a SQL database
 - Created structured tables
 - Executed SQL queries to answer business questions
@@ -51,7 +49,7 @@ This approach combines **python’s flexibility for data cleaning** with **SQL�
 
 ## 🛠 Tools and Technologies
 - **Python** (Data Cleaning & Preprocessing)
-- **SQL** (MySQL / PostgreSQL compatible)
+- **SQL** (PostgreSQL compatible)
 - **Relational Databases**
 - **Data Analysis Techniques**
 
@@ -68,6 +66,11 @@ This approach combines **python’s flexibility for data cleaning** with **SQL�
 3. Import the cleaned data
 4. Execute queries from `SQLnetflix_analysis.sql`
 
+## 👤 Author
+Aamir Khan
+Research Analyst 
+University of Aveiro
+
 ## 📂 Repository Structure
 ```text
 Netflix-SQL-Analysis/
@@ -80,7 +83,3 @@ Netflix-SQL-Analysis/
 ├── Business_Questions.pdf
 └── README.md
 
-## 👤 Author
-Aamir Khan
-Research Analyst 
-University of Aveiro
