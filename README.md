@@ -3,12 +3,6 @@
 ## 📌 Project Overview
 This project presents an exploratory and business-oriented analysis of the **Netflix Movies and TV Shows dataset**.  
 The primary objective is to extract meaningful insights using **SQL**, supported by **python-based data cleaning**.
-The analysis focuses on:
-- Content distribution across Netflix
-- Trends in content addition over time
-- Movie duration characteristics
-- Country-wise and rating-wise patterns
-
 
 ## 🗂 Dataset Description
 The dataset contains metadata related to Netflix content, including:
