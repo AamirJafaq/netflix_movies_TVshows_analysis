@@ -1,4 +1,4 @@
-# 📊 Netflix Data Analysis Using SQL
+# 📊 Netflix Data Analysis Using SQL (PostgreSQL)
 
 ## 📌 Project Overview
 This project presents an exploratory and business-oriented analysis of the **Netflix Movies and TV Shows dataset**.  
