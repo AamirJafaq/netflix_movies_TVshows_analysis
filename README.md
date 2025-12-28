@@ -30,7 +30,7 @@ The objectives of this project are answer business-driven analytical questions u
 3. What content has been added in the last five years?
 4. How is content distributed by release year?
 5. Which ratings are most common?
-6. Which countries contribute the most content?
+6. Which countries contribute the most content?\
 The complete list of business and analytical questions addressed in this project is provided in the attached **PDF** file.
 ## 🔍 Analysis Approach
 The analysis follows **two-stage**:
