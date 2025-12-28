@@ -22,10 +22,9 @@ The dataset contains metadata related to Netflix content, including:
 | listed_in | Genre |
 | description | Short description |
 
----
 
 ## 🎯 Business Objectives
-The objectives of this project are answer business-driven analytical questions using SQL. The analysis addresses questions such as:
+The objectives of this project are answer business-driven analytical questions using SQL. The analysis addresses questions such as:\
 1. What is the total number of Movies and TV Shows on Netflix?
 2. Which movies have the longest duration?
 3. What content has been added in the last five years?
@@ -67,9 +66,8 @@ This approach combines **python’s flexibility for data cleaning** with **SQL�
 4. Execute queries from `SQLnetflix_analysis.sql`
 
 ## 👤 Author
-Aamir Khan
-Research Analyst 
-University of Aveiro
+Aamir Khan \
+Research Analyst, University of Aveiro
 
 ## 📂 Repository Structure
 ```text
