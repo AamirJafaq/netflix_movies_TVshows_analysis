@@ -1,7 +1,7 @@
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix
 (
-	show_id	VARCHAR(5),
+	show_id	VARCHAR(5) PRIMARY KEY,
 	type    VARCHAR(10),
 	title	VARCHAR(250),
 	director VARCHAR(250),
@@ -175,4 +175,5 @@ SELECT type, CASE WHEN description ~* '\mkill\M' OR description ~* '\mviolence\M
 FROM netflix
 GROUP BY 2, type
 ORDER BY 2 DESC;
+
 
