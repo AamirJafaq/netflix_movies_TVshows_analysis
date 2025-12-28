@@ -55,8 +55,9 @@ This approach combines **python’s flexibility for data cleaning** with **SQL�
 
 ## 📈 Key Insights
 - Netflix hosts more **movies than TV shows**
-- Most movies fall within a **standard duration range**
+- The majority of movies fall within a standard runtime of under **three hours**.
 - A significant portion of content was added in recent years
+- Catalog is largely family friendly, with a smaller share of movies and TV shows centered on violent themes.
 - Content production is concentrated in a few major countries
 
 ## ▶️ How to Run the Project
