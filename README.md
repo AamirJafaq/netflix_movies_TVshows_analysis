@@ -1,7 +1,5 @@
 
-<img width="800" height="250" alt="images" src="https://github.com/user-attachments/assets/9c0c2938-0780-4ada-85b2-8406698e9a61" />
-
-<img width="500" height="908" alt="Netflix_2016_N_logo svg" src="https://github.com/user-attachments/assets/2a621055-390a-4ed3-8d72-2a613d403d60" />
+<img width="200" height="50" alt="Netflix_2016_N_logo svg" src="https://github.com/user-attachments/assets/2a621055-390a-4ed3-8d72-2a613d403d60" />
 
 # 📊 Netflix Data Analysis Using SQL (PostgreSQL)
 ## 📌 Project Overview
