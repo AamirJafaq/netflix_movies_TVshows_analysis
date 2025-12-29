@@ -4,7 +4,7 @@
 This project presents an exploratory and business-oriented analysis of the **Netflix Movies and TV Shows dataset**.  
 The primary objective is to extract meaningful insights using **SQL**, supported by **python-based data cleaning**.
 
-## 🗂 Dataset Description
+### 🗂 Dataset Description
 The dataset contains metadata related to Netflix content, including:
 
 | Column Name | Description |
@@ -23,7 +23,7 @@ The dataset contains metadata related to Netflix content, including:
 | description | Short description |
 
 
-## 🎯 Business Objectives
+### 🎯 Business Objectives
 The objectives of this project are answer business-driven analytical questions using SQL. The analysis addresses questions such as:
 1. What is the total number of Movies and TV Shows on Netflix?
 2. Which movies have the longest duration?
@@ -46,31 +46,31 @@ The analysis follows **two-stage**:
 This approach combines **python’s flexibility for data cleaning** with **SQL’s efficiency for analytical querying**.
 
 
-## 🛠 Tools and Technologies
+### 🛠 Tools and Technologies
 - **Python** (Data Cleaning & Preprocessing)
 - **SQL** (PostgreSQL compatible)
 - **Relational Databases**
 - **Data Analysis Techniques**
 
 
-## 📈 Key Insights
+### 📈 Key Insights
 - Netflix hosts more **movies than TV shows**
 - The majority of movies fall within a standard runtime of under **three hours**.
 - A significant portion of content was added in recent years
 - Catalog is largely family friendly, with a smaller share of movies and TV shows centered on violent themes.
 - Content production is concentrated in a few major countries
 
-## ▶️ How to Run the Project
+### ▶️ How to Run the Project
 1. Clean the dataset using Python
 2. Create a SQL database
 3. Import the cleaned data
 4. Execute queries from `SQLnetflix_analysis.sql`
 
-## 👤 Author
+### 👤 Author
 Aamir Khan \
 Research Analyst, University of Aveiro
 
-## 📂 Repository Structure
+### 📂 Repository Structure
 ```text
 Netflix-SQL-Analysis/
 │
