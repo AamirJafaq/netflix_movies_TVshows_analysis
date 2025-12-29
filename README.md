@@ -1,5 +1,5 @@
 
-<img width="80" height="150" alt="Netflix_2016_N_logo svg" src="https://github.com/user-attachments/assets/2a621055-390a-4ed3-8d72-2a613d403d60" /> # Netflix Data Analysis Using SQL (PostgreSQL)
+<img width="80" height="150" alt="Netflix_2016_N_logo svg" src="https://github.com/user-attachments/assets/2a621055-390a-4ed3-8d72-2a613d403d60" /> **etflix Data Analysis Using SQL (PostgreSQL)**
 
 # 📊 Netflix Data Analysis Using SQL (PostgreSQL)
 ## 📌 Project Overview
