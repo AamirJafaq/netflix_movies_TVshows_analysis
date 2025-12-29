@@ -1,5 +1,5 @@
 
-<img width="900" height="281" alt="png-clipart-graphics-logo-netflix-television-macbeth-2015-netflix-television-text" src="https://github.com/user-attachments/assets/adf770b4-01ad-4ca9-a546-b8e255fffff1" />
+<img width="500" height="333" alt="Netflix-Logo-2006-500x333-1" src="https://github.com/user-attachments/assets/cb27ba42-3218-47d9-b46c-f8f334e6a71e" />
 
 
 # 📊 Netflix Data Analysis Using SQL (PostgreSQL)
