@@ -1,3 +1,7 @@
+
+<img width="900" height="281" alt="png-clipart-graphics-logo-netflix-television-macbeth-2015-netflix-television-text" src="https://github.com/user-attachments/assets/adf770b4-01ad-4ca9-a546-b8e255fffff1" />
+
+
 # 📊 Netflix Data Analysis Using SQL (PostgreSQL)
 
 ## 📌 Project Overview
