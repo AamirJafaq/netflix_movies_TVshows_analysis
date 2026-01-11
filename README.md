@@ -33,7 +33,7 @@ The objectives of this project are answer business-driven analytical questions u
 5. Which ratings are most common?
 6. Which countries contribute the most content?\
 The complete list of business and analytical questions addressed in this project is provided in the attached **PDF** file.
-## 🔍 Analysis Approach
+### 🔍 Analysis Approach
 The analysis follows **two-stage**:
 1. **Data Cleaning and Preprocessing (Python)**
 - Loaded the raw dataset into Python
