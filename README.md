@@ -72,8 +72,8 @@ This approach combines **python’s flexibility for data cleaning** with **SQL�
 4. Execute queries from `SQLnetflix_analysis.sql`
 
 ### 👤 Author
-Aamir Khan \
-Research Analyst, University of Aveiro
+**Aamir Khan** \
+Research Analyst, **Center for Research & Development in Mathematics and Applications (CIDMA)**
 
 ### 📂 Repository Structure
 ```text
